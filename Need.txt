@@ -1,2 +1,7 @@
 Hello World
+<<<<<<< HEAD
+=======
+Hello Everyone
+How are you
+>>>>>>> 683eaa0... Change 3
 
